@@ -1,0 +1,18 @@
+{
+  "avatar_queue": [
+    {"id": "ep002", "topic": "打错立刻提醒 vs 背完就忘"},
+    {"id": "ep003", "topic": "晾衣绳动物卡怎么帮你拆句"},
+    {"id": "ep004", "topic": "人教版一句示范听写"},
+    {"id": "ep005", "topic": "错词本：专治反复错"},
+    {"id": "ep006", "topic": "三端同步：地铁手机回家电脑"},
+    {"id": "ep007", "topic": "动画课观看与练习切换"},
+    {"id": "ep008", "topic": "四六级长难句拆一句打一句"}
+  ],
+  "quote_queue": [
+    {"theme": "坚持练习", "cta": "wanwords.com"},
+    {"theme": "听写胜于刷题", "cta": "wanwords.com"}
+  ],
+  "h3_queue": [
+    {"topic": "亲子厨房听写钩子", "machine": "192.168.1.168", "window": "night"}
+  ]
+}

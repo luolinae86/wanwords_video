@@ -1,0 +1,50 @@
+{
+  "id": "guide_v1",
+  "title": "万字诀产品介绍 · guide_v1",
+  "slogan": "听一句，打一句，练到会用",
+  "cta": "wanwords.com · 前两课免费试学",
+  "segments": [
+    {
+      "id": "hook",
+      "narration": "学英语，最怕听得懂却写不出。万字诀：听一句，打一句，练到会用。",
+      "visual": "brand",
+      "duration_hint": 8
+    },
+    {
+      "id": "login",
+      "narration": "微信一键登录，电脑扫码也能进。同一账号，手机、iPad、电脑进度跟着走。",
+      "visual": "login-wechat.jpg",
+      "duration_hint": 10
+    },
+    {
+      "id": "home",
+      "narration": "教材、考试、视频、场景，分类清楚。也可以直接说人教版三年级，智能帮你找课。",
+      "visual": "home-search.jpg",
+      "duration_hint": 10
+    },
+    {
+      "id": "text_practice",
+      "narration": "打开一课，中文提示在下面，单词挂在晾衣绳上。打错了立刻提醒；打对了自动跳下一句，像闯关一样往前走。",
+      "visual": "demo-text.mp4",
+      "duration_hint": 18
+    },
+    {
+      "id": "video_practice",
+      "narration": "动画课还能边看边打：先看这一句动画，再把英文打出来。想先看完整集？一键切到观看，看完再回练习。",
+      "visual": "demo-video.mp4",
+      "duration_hint": 16
+    },
+    {
+      "id": "wrong_book",
+      "narration": "反复打错的词会自动进错词本，专门消灭薄弱点。",
+      "visual": "wrong-book.jpg",
+      "duration_hint": 8
+    },
+    {
+      "id": "cta",
+      "narration": "前两课免费试学。打开 wanwords.com，听一句，打一句，今天就开始。",
+      "visual": "poster",
+      "duration_hint": 10
+    }
+  ]
+}

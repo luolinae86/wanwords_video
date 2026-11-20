@@ -1,0 +1,54 @@
+{
+  "id": "desk_v3",
+  "title": "练习录屏 + 下方女教练同步解说",
+  "character": "female",
+  "src_start": 8.0,
+  "src_end": 42.0,
+  "layout": {
+    "product_h": 1180,
+    "avatar_h": 740,
+    "note": "上产品、下数字人；解说必须对齐画面句"
+  },
+  "cta_safe": "抖音搜：万字诀 · 前两课免费试学",
+  "narration": "听得懂却写不出？看上面：先听一句 I like to do it，再把单词打出来。打对了就 Perfect，自动跳下一句。这句变成 I don't like——听清楚，再打 don't 和 like。整句 I don't like to do it，听一句，打一句。想练就搜万字诀，前两课免费试学。",
+  "cues": [
+    {
+      "kind": "hook",
+      "t_screen": [0.0, 3.0],
+      "seg": "听得懂却写不出？看上面：",
+      "card_zh": "听得懂却写不出？"
+    },
+    {
+      "kind": "line1",
+      "t_screen": [3.0, 12.0],
+      "seg": "先听一句 I like to do it，再把单词打出来。",
+      "card_zh": "I like to do it.",
+      "card_en": "听 → 打"
+    },
+    {
+      "kind": "feedback",
+      "t_screen": [12.0, 16.0],
+      "seg": "打对了就 Perfect，自动跳下一句。",
+      "card_zh": "打对 → Perfect"
+    },
+    {
+      "kind": "line2",
+      "t_screen": [16.0, 24.0],
+      "seg": "这句变成 I don't like——听清楚，再打 don't 和 like。",
+      "card_zh": "I don't like",
+      "card_en": "听清楚再打"
+    },
+    {
+      "kind": "line3",
+      "t_screen": [24.0, 30.0],
+      "seg": "整句 I don't like to do it，听一句，打一句。",
+      "card_zh": "听一句，打一句"
+    },
+    {
+      "kind": "cta",
+      "t_screen": [30.0, 34.0],
+      "seg": "想练就搜万字诀，前两课免费试学。",
+      "card_zh": "搜：万字诀"
+    }
+  ]
+}

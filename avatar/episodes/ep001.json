@@ -1,0 +1,35 @@
+{
+  "id": "ep001",
+  "title": "听得懂却写不出？用万字诀练一句",
+  "look": "01_study_teal",
+  "voice": "longanlingxin",
+  "tts_model": "qwen-audio-3.0-tts-plus",
+  "tts_instruction": "用温暖自信、亲切清晰的语气，像耐心的英语老师；语速适中偏慢，句间留短停顿。",
+  "narration": "学英语最怕听得懂却写不出。来跟我练一句：I practice English every day.听一句，打一句。打开 wanwords.com，前两课免费试学。",
+  "cues": [
+    {
+      "kind": "hook",
+      "seg": "学英语最怕听得懂却写不出。",
+      "card_zh": "听得懂 ≠ 写得出",
+      "card_en": ""
+    },
+    {
+      "kind": "example",
+      "seg": "来跟我练一句：I practice English every day.",
+      "card_zh": "来跟我练一句",
+      "card_en": "I practice English every day."
+    },
+    {
+      "kind": "method",
+      "seg": "听一句，打一句。",
+      "card_zh": "听一句，打一句",
+      "card_en": "Listen → Type → Master"
+    },
+    {
+      "kind": "cta",
+      "seg": "打开 wanwords.com，前两课免费试学。",
+      "card_zh": "wanwords.com",
+      "card_en": "前两课免费试学"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "linyu_coach",
+  "display_name": "林予（万字诀英语教练）",
+  "tts_model": "qwen-audio-3.0-tts-plus",
+  "voice_id": "longanlingxin",
+  "language": "zh-CN",
+  "language_type": "Chinese",
+  "instruction": "用温暖自信、亲切清晰的语气，像耐心的英语老师；语速适中偏慢，句间留短停顿，适合竖屏口播与产品宣传。",
+  "notes": "Phase1 使用百炼 longanlingxin（与 wandwords/script/promo/make_vo.py 同源）。若后续克隆专属音色，只改 voice_id，勿改角色名。"
+}

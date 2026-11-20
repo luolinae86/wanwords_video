@@ -1,0 +1,22 @@
+[
+  {
+    "id": "A_cn_woman",
+    "label": "A · 中国女性",
+    "path": "brand/characters/candidates/A_cn_woman.png"
+  },
+  {
+    "id": "B_cn_man",
+    "label": "B · 中国男性",
+    "path": "brand/characters/candidates/B_cn_man.png"
+  },
+  {
+    "id": "C_foreign_woman",
+    "label": "C · 外国女性",
+    "path": "brand/characters/candidates/C_foreign_woman.png"
+  },
+  {
+    "id": "D_foreign_man",
+    "label": "D · 外国男性",
+    "path": "brand/characters/candidates/D_foreign_man.png"
+  }
+]
